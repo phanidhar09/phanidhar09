@@ -1,6 +1,6 @@
 # Hi, I'm Phanidhar Reddy 👋
 
-AI/ML engineer building full-stack, production-grade AI applications — agents, RAG systems, and computer vision pipelines.
+Software engineer building full-stack, production-grade AI applications — agents, RAG systems, and computer vision pipelines.
 
 ---
 
