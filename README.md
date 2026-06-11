@@ -42,3 +42,4 @@ Browser ──> nginx ──> React SPA
 ---
 
 📫 Reach me on GitHub — [@phanidhar09](https://github.com/phanidhar09)
+Reach me on Mail- [phanireplies@gmail.com](phanireplies@gmail.com)
